@@ -1,2 +1,2 @@
 # Static payment form using HTML and CSS
-Config files for my GitHub profile.
+A payment form done using basic HTML and CSS.
